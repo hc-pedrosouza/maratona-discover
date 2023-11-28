@@ -1,4 +1,4 @@
-# Maratona Discorver
+# Maratona Discover
 Projeto com objetivo de melhorar minha capacidade de compreensão e desenvolvimento com:
 1- Javascript
 2- CSS 
